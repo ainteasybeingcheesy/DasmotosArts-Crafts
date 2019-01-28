@@ -1,5 +1,5 @@
 h1  {
-  background-image: url("../resources/images/headerpattern.jpeg");
+  background-image: url("./images/headerpattern.jpeg");
   font-family: helvetica;
   font-size: 100px;
   font-weight: bold;
@@ -31,5 +31,3 @@ h2  {
   font-weight: bold;
   color: blue;
 }
-
-// test
